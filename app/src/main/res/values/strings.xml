@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppNews</string>
+    <string name="loginin">LoginIn</string>
+    <string name="ng_nh_p">Đăng nhập</string>
+</resources>

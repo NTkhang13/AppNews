@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIN="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="home"></item>
+        <item
+            android:id="@+id/nav_sport"
+            android:title="sport"></item>
+        <item
+            android:id="@+id/nav_health"
+            android:title="health"></item>
+        <item
+            android:id="@+id/nav_science"
+            android:title="science"></item>
+        <item
+            android:id="@+id/nav_entertainment"
+            android:title="entertainment"></item>
+        <item
+            android:id="@+id/nav_technology"
+            android:title="technology"></item>
+    </group>
+</menu>
